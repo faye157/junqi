@@ -35,6 +35,17 @@ NewTV频道,#genre#
 百事通,#genre#
 咪咕直播,#genre#
 电影频道,#genre#
+重温经典
+AMC电影
+龙华电影
+纬来电影
+龙华洋片
+HBO
+HBO家庭
+AXN
+CINEMAX
+美亞電影TW
+美亞電影HK
 电视剧频道,#genre#
 埋堆堆频道,#genre#
 神雕侠侣
